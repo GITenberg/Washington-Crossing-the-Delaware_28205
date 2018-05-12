@@ -1,0 +1,31 @@
+_repo: Washington-Crossing-the-Delaware_28205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlton, Henry Fisk
+    gutenberg_agent_id: '32649'
+    url: http://www.gutenberg.org/2009/agents/32649
+  editor:
+    agent_name: Zyve, Claire Turner
+    alias: Zyve, Claire T.
+    birthdate: 1895
+    gutenberg_agent_id: '32650'
+    url: http://www.gutenberg.org/2009/agents/32650
+description: ''
+gutenberg_issued: '2009-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Drama'
+- !lcsh 'Washington, George, 1732-1799 -- Drama'
+- !lcc 'PS'
+title: Washington Crossing the Delaware
+url: http://www.gutenberg.org/ebooks/28205
